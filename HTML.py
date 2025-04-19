@@ -103,7 +103,7 @@ def web_page():
         <table>
             <tr>
                 <th>Toggle light</th>
-                <th>Script 2</th>
+                <th>Toggle door</th>
                 <th>Script 3</th>
             </tr>
             <tr>
