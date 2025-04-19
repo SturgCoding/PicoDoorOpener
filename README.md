@@ -15,3 +15,9 @@ CAD files (STL) for door handle will be added once fixed and working on my one a
 - NOTES:
     Moved to ESP32 for easier prototyping, however code and how it works will be fine on Pico
     This was because i had a dev.exapansion board to hand making GND, 5V, GPIO21 perfectly close 
+
+- CREDITS:
+    https://www.printables.com/@MuldeeThings_81206
+        For the 9V battery holder implented on the 3D print STL
+    https://cults3d.com/en/users/cebess/3d-models
+        For the Servo holder/cage implented on the 3D print STL
