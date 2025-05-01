@@ -11,10 +11,12 @@ CAD files (STL) for door handle will be added once fixed and working on my one a
 - TO IMPROVE:
     Captive Portal aspect or BLE communication to allow for faster or 'auto' access
     to the portal/interface
+    Timeout/low energy mode needs to be added to make the system more power effifient when it is run off of battery power
 
 - NOTES:
     Moved to ESP32 for easier prototyping, however code and how it works will be fine on Pico
-    This was because i had a dev.exapansion board to hand making GND, 5V, GPIO21 perfectly close 
+    This was because i had a dev.exapansion board to hand making GND, 5V, GPIO21 perfectly close
+    ESP32 has issues with creating a password locked connection compared to Pico
 
 - CREDITS:
     https://www.printables.com/@MuldeeThings_81206
